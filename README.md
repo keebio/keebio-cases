@@ -3,6 +3,7 @@
 Here's links to the various case file repositories for Keebio boards:
 
 * [Iris](https://github.com/keebio/iris-case)
+* [Iris CE](https://github.com/keebio/iris-ce-case)
 * [Quefrency](https://github.com/keebio/quefrency-case)
 * [KBO-5000](https://github.com/keebio/kbo-5000-case)
 * [BDN9](https://github.com/keebio/BDN9-case)
